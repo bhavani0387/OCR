@@ -1,2 +1,1 @@
 # OCR Using Tesseract
-\
